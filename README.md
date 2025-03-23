@@ -24,3 +24,4 @@ From these setting it was found that B split the clusters based on the value of 
 ## Medium task
 
 A grand tour and a local tour were shown side by side using `detourr` R package in a `shiny` app. The `iris` data set was used. `crosstalk` was used for linked brushing.
+[visuals can be found here.](Mediumvisuals.gif)
