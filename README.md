@@ -19,6 +19,8 @@ Within the app the following settings used to compare their clustering results:
 
 From these setting it was found that B split the clusters based on the value of c9 whereas A had much more interesting cluster assignment.
 
+<img src="easycomparisons.png" />
+
 ## Medium task
 
-A grand tour and a local tour were shown side by side using `detourr` R package in a `shiny` app. The `iris` data set was used.
+A grand tour and a local tour were shown side by side using `detourr` R package in a `shiny` app. The `iris` data set was used. `crosstalk` was used for linked brushing.
